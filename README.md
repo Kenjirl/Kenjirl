@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @Kenjirl
-- 👀 I’m interested in nothing ...
-- 🌱 I’m currently learning how to use Github T^T ...
+## 👋 Hi, I’m Kenjiro
+I am currently in my final semester of college. Throughout my academic journey, I have explored into various aspects of programming, starting from fundamental logic and algorithms using C, basics of Android app development using Android Studio, and specializing in SQL for database management.
+I have discovered my interest in web development, where I have gained a lot of experience using the Laravel framework for full-stack development. On the front-end side, I am adept at HTML, CSS (particularly Tailwind), and JS (Jquery) for interface manipulation and responsiveness. Additionally, I have a decent understanding of the basics of ReactJS. I hope to create many interesting and useful websites for anyone.
 
-<!---
-Kenjirl/Kenjirl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👀 My Interest
+- Web Development: some of my hosted project are showcased on [Kenji's Lore to Web Dev](https://kenjirl.github.io).
+
+## 📫 Let's Link with Me
+- Github : [kenjirl_](https://www.instagram.com/kenjirl_/)
+- LinkedIn : [kencong](https://www.linkedin.com/in/kencong/)
+- Instagram : [kenjirl_](https://www.instagram.com/kenjirl_/)
+- Twitter : [kencongun](https://twitter.com/kencongun)
+- Discord : [Kencong#7353](https://www.discordapp.com/users/Kencong#7353)
+- Telegram : [Kencoong](https://t.me/Kencoong)
