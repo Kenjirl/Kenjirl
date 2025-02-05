@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Kenjiro
 
-I am currently in my final semester of college. Throughout my academic journey, I have explored into various aspects of programming, starting from fundamental logic and algorithms using C, basics of Android app development using Android Studio, and specializing in SQL for database management.
+I just finish my college and ready for work. Throughout my academic journey, I have explored into various aspects of programming, starting from fundamental logic and algorithms using C, basics of Android app development using Android Studio, and specializing in SQL for database management.
 
 I have discovered my interest in **web development**, where I have gained a lot of experience using the Laravel framework for full-stack development. On the front-end side, I am practically good with HTML, CSS (particularly Tailwind), and JS (Jquery) for interface manipulation and responsiveness. Additionally, I have a decent understanding of the basics of ReactJS. I hope to create many interesting and useful websites for anyone.
 
