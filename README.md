@@ -10,7 +10,7 @@ I have discovered my interest in **web development**, where I have gained a lot 
 
 ## 📫 Let's Link with Me
 
-- Github : [kenjirl_](https://www.instagram.com/kenjirl_/)
+- Github : [kenjirl_](https://github.com/Kenjirl)
 - LinkedIn : [kencong](https://www.linkedin.com/in/kencong/)
 - Instagram : [kenjirl_](https://www.instagram.com/kenjirl_/)
 - Twitter : [kencongun](https://twitter.com/kencongun)
