@@ -16,3 +16,8 @@ I have discovered my interest in **web development**, where I have gained a lot 
 - Twitter : [kencongun](https://twitter.com/kencongun)
 - Discord : [Kencong#7353](https://www.discordapp.com/users/Kencong#7353)
 - Telegram : [Kencoong](https://t.me/Kencoong)
+
+## 🗒️ My CV
+
+- ATS CV : [PDF](https://drive.google.com/file/d/1YpzAWn4wWyyvMc6TjKcO4bOWblJEBW5o/view?usp=sharing) / [Canva](https://www.canva.com/design/DAGftU95TAw/q5sPQd4ooAr_AxdGnfskIQ/view?utm_content=DAGftU95TAw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb80c441d69)
+- Colored CV : [PDF](https://drive.google.com/file/d/1LoJH9JANh5ibvqi8EuSpjzNMc8Yh-63G/view?usp=drive_link)
